@@ -1,0 +1,6 @@
+spring:
+  jpa:
+    showSql: true
+  h2:
+    console:
+      enabled: true
